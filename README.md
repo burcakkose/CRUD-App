@@ -33,7 +33,7 @@ This project provides a RESTful API for managing devices. It allows users to per
 
 ## Project Structure
 
-The project follows a typical Spring Boot application structure:
+The project follows below application structure:
 
 ```
 src
