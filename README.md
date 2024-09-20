@@ -33,7 +33,7 @@ This project provides a RESTful API for managing devices. It allows users to per
 
 ## Project Structure
 
-The project follows below application structure:
+The project follows the below application structure:
 
 ```
 src
@@ -82,7 +82,7 @@ The application will start on `http://localhost:8080`.
 
 ## API Request Examples
 
-Here are some examples of how to use the API endpoints:
+Here are examples of how to use the API endpoints:
 
 ### Add a new device
 
